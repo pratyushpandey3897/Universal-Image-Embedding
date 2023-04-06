@@ -1,4 +1,4 @@
-# google-universal-image-embedding-challenge
+# Google Research: Universal-Image-Embedding-Challenge
 Deep Leaning based solution for Google Universal Image Embedding Kaggle Challenge 
 
 Challenge: https://www.kaggle.com/competitions/google-universal-image-embedding
@@ -63,4 +63,4 @@ The model trained and submitted by us for the competition
 scored 0.681 which is at par with the top 10 score amongst
 all competitors.Submissions are evaluated according to the mean Precision@5 metric, introducing a small modification to avoid
 penalizing queries with fewer than 5 expected index images.
- The resuts of smulations is given here`ConsoleOutput`
+ The resuts of smulations is given in`ConsoleOutput`
